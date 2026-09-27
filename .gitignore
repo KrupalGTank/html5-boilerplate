@@ -4,3 +4,9 @@ node_modules
 packages
 dist/package-lock.json
 src/package-lock.json
+
+#ignore file
+/credentials.py
+
+#ignore all txt files under text folder
+text/*.txt
