@@ -9,4 +9,4 @@ src/package-lock.json
 /credentials.py
 
 #ignore all txt files under text folder
-test/*.txt
+text/*.txt
